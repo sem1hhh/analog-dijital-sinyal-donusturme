@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.DS_Store
+*.wav
+rapor_kaynak/
+kisisel_bilgiler.json
+plan.md
+hata.md
+calistirma_yontem.txt
